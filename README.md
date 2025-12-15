@@ -1,16 +1,38 @@
-## Hi there 👋
+# this is a website
 
-<!--
-**tsssu111/tsssu111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this repository contains the files for my personal website.
 
-Here are some ideas to get you started:
+it is a static site.
+no backend.
+no framework.
+just files.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what’s here
+
+* `index.html` — the main page
+* `style.css` — how it looks (sometimes intentionally wrong)
+* `music/` — songs, sounds, and audio files
+
+## how it works
+
+open the site in a browser.
+click things.
+sounds play.
+text exists.
+
+nothing is generated.
+nothing is tracked.
+nothing is optimized beyond what felt correct.
+
+## licensing
+
+this repository has **no license**.
+all rights reserved unless stated otherwise.
+
+## notes
+
+* audio may not autoplay on mobile
+* layout may change without warning
+* this site is not finished, even when it is
+
+that’s it.
